@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily missed, error in JavaScript function handling of null values. The function `myFunc` intends to return the sum of two numbers, but it's behavior when receiving null values isn't clearly defined.  The solution provided clarifies the intended behavior for different null input combinations.
